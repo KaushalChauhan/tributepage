@@ -1,0 +1,41 @@
+
+.container-fluid
+{
+    background: rgb(220,220,230)
+}
+h1
+{
+    color: skyblue;
+    text-align: center;
+}
+
+h3 
+{
+    color: green;
+    text-align: center;
+}
+img
+{
+    width: 210px;
+}
+p
+{
+    color: brown;
+    text-align: center;
+    margin: 0 0 10px;
+}
+.font
+{
+    font-size: 22px;
+   
+}
+.link
+{
+    font-size:18px;
+    color:rgb(148,0,211);
+}
+.center-image 
+{
+    display:block;
+    margin:auto;
+}
